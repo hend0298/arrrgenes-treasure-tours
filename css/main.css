@@ -7,6 +7,10 @@ html {
   color: #000;
 }
 
+.white {
+  color: #fff;
+}
+
 .masthead {
   background-color: #522806;
   border-bottom: .3rem solid #bea59b;
